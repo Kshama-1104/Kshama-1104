@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Kshama Mishra
-- 🌟 Chairperson, IEEE WIE PSIT Student Branch | Computer Science & AI Enthusiast
+- 🌟 Student Research Associate, IIT Kanpur | Chairperson, IEEE WIE PSIT Student Branch | Computer Science & AI Enthusiast
 - 💡 Exploring AI, ML, AR/VR, and Quantum Computing
 - 🔭 Currently learning Data Structures & Algorithms (Java) and Web Development
 - 🚀 Passionate about open-source, innovation, and building impactful projects
