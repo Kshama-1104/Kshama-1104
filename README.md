@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**Kshama-1104/Kshama-1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Hi, I'm Kshama Mishra
+💡 Passionate AI/ML enthusiast and aspiring data scientist with skills in Python, Java (DSA, OOPs, backend), and experience working with AWS and databases like MySQL, MongoDB, and PostgreSQL
+🚀 About Me
+🎓 B.Tech CSE (AI) Student (3rd Semester)
+🤖 Passionate about Artificial Intelligence, Machine Learning & Automation
+🐍 Building AI/ML projects using Python
+🧠 Strong foundation in Data Structures & Algorithms (Java)
+💻 Experienced in Backend Development (Java & Python)
+🌐 Skilled in Full Stack Development (React, JavaScript)
+☁️ Familiar with AWS Cloud & Deployment
+🗄️ Databases: MySQL, MongoDB, PostgreSQL
+🌐 Exploring VR + AI integration
+🎯 Goal: Secure a role in AI/ML Engineering or Data Science
