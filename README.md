@@ -77,11 +77,11 @@
 ```
 
 ---
+
 ## 🛠 Languages & Tools
 
 <p align="center">
-<img width="779" height="104" alt="image" src="https://github.com/user-attachments/assets/b40100c5-2817-4f86-b00e-6caf59968295" />
-
+  <img src="https://raw.githubusercontent.com/Kshama-1104/Kshama-1104/5449a5650b007737efb1bfbc7f4d377f209f0eda/github_image.png" width="100%" />
 </p>
 
 ---
