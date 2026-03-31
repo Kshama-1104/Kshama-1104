@@ -10,34 +10,34 @@
   <img src="https://img.shields.io/badge/Generative AI Intern-IBM-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/>
 </p>
 
-#### B.Tech CS-AI Student passionate about building **AI systems, deep learning models, research projects, and modern web applications**.
+#### B.Tech CS-AI Student passionate about building AI systems, deep learning models, research projects, and modern web applications.
 </div>
 
 ---
 
-## 💫 About Me
-- 🎓 B.Tech CSE (AI) Student (3rd Semester)
-- 🤖 Passionate about Artificial Intelligence, Machine Learning & Automation
-- 🐍 Building AI/ML projects using Python
-- 🧠 Strong foundation in Data Structures & Algorithms (Java)
-- 💻 Experienced in Backend Development (Java & Python)
-- 🌐 Skilled in Full Stack Development (React, JavaScript)
-- ☁️ Familiar with AWS Cloud & Deployment
-- 🗄️ Databases: SQL, MongoDB
-- 🌐 Exploring VR + AI integration
-- 🎯 Goal: Secure a role in AI/ML Engineering or Data Science
-
+## 👩‍💻 About Me
+- 🎓 3rd Year B.Tech (CS-AI) building real-world AI/ML systems
+- 🤖 Focused on Deep Learning, NLP & RAG-based intelligent applications
+- ⚙️ End-to-end engineer: ML models → backend → scalable cloud deployment
+- 🌐 Full Stack developer delivering production-ready AI-powered apps
+- 🚀 Targeting AI/ML roles at top tech companies through high-impact projects
 --- 
 
-## 🏆 Skills Highlight
+## 🧠 Skills Highlight
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Artificial Intelliegence-Machine Learning-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-Java-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Virtual Reality-Full Stack Development-0A66C2?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/My SQL-Mongo DB-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AWS Cloud Deployment-Operating System-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/>
- </p>
+
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0B1F3A?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-D32F2F?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Virtual%20Reality-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Full%20Stack%20Development-0A66C2?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-F5F5F5?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20Cloud-FF9900?style=for-the-badge&logo=icloud&logoColor=white"/>
+
+</p>
 
 --- 
 
@@ -45,39 +45,38 @@
 
 | Project | Description |
 |--------|-------------|
-| 🧠 **Deepfake Detection System** | Deepfake detection using CNN and ASCII-based dual-path architecture |
-| 🧠 **Skin Cancer Classification** | Deep learning for automated multi-class skin disease diagnosis|
-| 🤖 **Context Aware RAG Chatbot** | RAG chatbot with context awareness and reduced hallucinations |
-| 🤖 **Crypto Trading Bots** | Automated Binance trading bots built with Python |
-| 🧬 **Cloud Queue** | Advanced cloud-native message queue system with high throughput, reliability, and scalability |
-| 🤖 **PSIT Virtual Labs** | Empowering Engineering Education Through Interactive Virtual Experiments |
-| 🤖 **Aarogya Verse** | Immersive WebVR platform for Ayurveda and wellness |
+| 🎭 Deepfake Detection System | Detects manipulated faces using CNN + ASCII dual-path architecture |
+| 🧬 Skin Cancer Classification | Multi-class disease detection using deep learning on medical images |
+| 🤖 Context Aware RAG Chatbot | Retrieval-augmented chatbot with memory & reduced hallucination |
+| 📈 Crypto Trading Bots | Automated Binance trading using real-time market strategies |
+| ☁️ Cloud Queue | Distributed message queue system with high throughput & scalability |
+| 🧪 PSIT Virtual Labs | Interactive simulations for practical engineering learning |
+| 🌿 Aarogya Verse | WebVR-based immersive Ayurveda & wellness experience |
 
 ---
+
 ## 🗓️ Milestone Timeline
 
 ```yaml
 2026 - Current:
   - 🚀 Advanced AI & Deep Learning Projects
-  - 🧠 Learnt Machine Learning Techniques & Algorithms
-  - 🌱 Worked on Quantum Computing Techniques
+  - 🧠 Machine Learning Techniques & Algorithms
+  - ⚛️ Exploring Quantum Computing
 
 2025 - 2026:
-  - 🔬 Python Backend Projects using FastAPI
-  - 🌱 Full Stack Web Development Projects
-  - 🌱 Virtual Reality Projects 
+  - ⚙️ Python Backend Development (FastAPI)
+  - 🌐 Full Stack Web Development
+  - 🧪 Virtual Reality Projects 
 
 2024 - 2025:
-  - 🌐 Java Backend Projects with NoSQL & SQL Database
-  - 🌐 Learnt Python Development & AWS Cloud Deployement
+  - 🌐 Java Backend with SQL & NoSQL Databases
+  - ☁️ Python Development & AWS Deployment
 
 2023 - 2024:
   - 🎓 Started B.Tech in Information Technology
-  - 🎓 Learnt Java Development
+  - 💻 Learned Java Development
 ```
-
 ---
-
 ## 🛠 Languages & Tools
 
 <p align="center">
